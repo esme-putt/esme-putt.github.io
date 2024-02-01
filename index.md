@@ -1,5 +1,5 @@
 
-#### 📱 Working as a mobile developer in Pōneke (Wellington), Aotearoa (New Zealand)
+#### 📱 Working as a native mobile developer in Pōneke (Wellington), Aotearoa (New Zealand)
 
 💻 Currently doing [#100daysofcode](https://www.100daysofcode.com/) to improve my web development skills
 
