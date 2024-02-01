@@ -1,5 +1,21 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+#### Working as a mobile developer in Pōneke (Wellington), Aotearoa (New Zealand) 📱
 
-Or maybe what you plan to blog about.
+💻 Currently doing #100days of code to improve my web development skills
+
+### Goals
+🟧 [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)  
+🟨 [FreeCodeCamp Front End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)  
+🟨 [FreeCodeCamp Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)  
+🟨 [FreeCodeCamp Backend Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/)  
+🟨 [FreeCodeCamp Information Security Certification](https://www.freecodecamp.org/learn/information-security/)  
+
+### Also learning more about:
+🧗‍♀️ Climbing  
+🏀 Basketball  
+🏂 Snowboarding  
+🏄‍♀️ Surfing  
+🥊 Muay Thai  
+🛠️ Fixing things  
+
+
