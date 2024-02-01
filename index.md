@@ -1,7 +1,7 @@
 
 #### 📱 Working as a mobile developer in Pōneke (Wellington), Aotearoa (New Zealand)
 
-💻 Currently doing #100days of code to improve my web development skills
+💻 Currently doing [#100daysofcode](https://www.100daysofcode.com/) to improve my web development skills
 
 ### Goals
 🟧 [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)  
